@@ -16,8 +16,7 @@ Implementation of a belief revision agent. The propositions are introduced from 
 
 
 ### Run the program
-To run the project run the `display.exe`. It is an executable file that will automatically launch the code for you by double-clicking it.
-
+To run the project run the `display.py`. 
 
 ### Notes
 * The system doesn't allow for bi-implication yet as the implementation has resulted tricky and could't make it in time. We recomend transforming the expression and using the logical operators avaible for you on the display.
